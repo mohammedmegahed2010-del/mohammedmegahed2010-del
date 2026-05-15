@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**mohammedmegahed2010-del/mohammedmegahed2010-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about Problem Solving, Competitive Programming, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## About Me
+- 🧠 Improving my problem-solving skills through competitive programming.
+- 🤖 Learning Machine Learning & Deep Learning.
+- 💻 Sharing my projects and learning journey on GitHub.
+- 📚 Interested in mathematics, algorithms, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profiles
+- 🏆 [Codeforces](https://codeforces.com/profile/Mohammed_Megahed)
+- 🐙 [GitHub](https://github.com/mohammedmegahed2010-del)
