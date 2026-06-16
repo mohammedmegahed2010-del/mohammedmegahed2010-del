@@ -10,3 +10,4 @@ I'm a high school student passionate about Problem Solving, Competitive Programm
 
 ## Profiles
 - 🏆 [Codeforces](https://codeforces.com/profile/Mohammed_Megahed)
+- ![Mohammed's GitHub stats](https://vercel.app)
